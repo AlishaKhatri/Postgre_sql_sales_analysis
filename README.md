@@ -1,4 +1,4 @@
-# Postgre_sql_sales_analysis
+# Postgresql_sales_analysis (Exploratory Data Analysis)
 This project is a comprehensive PostgreSQL-based solution for analyzing sales data, customer segmentation, and product performance. It uses SQL queries to extract key insights that help businesses understand sales trends, customer behaviors, and product performance over time. The project includes a variety of analytical techniques, including trend analysis, cumulative analysis, performance comparison, and part-to-whole analysis.
 
 Key Features:
